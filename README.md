@@ -1,8 +1,8 @@
 # The Evolution of Artificial Intelligence: From Early Systems to Generative AI
 
 **Course:** AI Mini Project — Option A: AI Concepts & Trends  
-**Group:** [E40A / E40B]  
-**Team:** [Team name]
+**Group:** E40B  
+**Team:** TBC
 
 ## Project Overview
 This project reviews selected milestones in the evolution of artificial intelligence, from early theoretical foundations and symbolic systems to machine learning, deep learning, and generative AI.
@@ -31,14 +31,12 @@ A qualitative literature review of institutional and research-oriented sources. 
 ## Team Members
 | Full name | Student ID | Group | Contribution |
 |---|---|---|---|
-| [Name] | [ID] | [E40A/E40B] | [Contribution] |
-| [Name] | [ID] | [E40A/E40B] | [Contribution] |
-| [Name] | [ID] | [E40A/E40B] | [Contribution] |
+| Tolibjonov Yusufjon | [202390235] | E40B | Researcher |
+| Abdullajonov Abdurahmonjon | [202390235] | E40B | Researcher |
+| Abduazimov Abduazim | [202390252] | E40B | Researcher |
+| Qosimjonov Abduqodirxon | [202390235] | E40B | Researcher |
 
 ## References
 - Dartmouth College, *The Founding and Future of AI*: https://ai.dartmouth.edu/founding-and-future-ai
 - IBM, *The History of Artificial Intelligence*: https://www.ibm.com/think/topics/history-of-artificial-intelligence
 - Stanford HAI, *The 2025 AI Index Report*: https://hai.stanford.edu/ai-index/2025-ai-index-report
-
-## Before Submission
-Replace all placeholders, verify references, check repository access, and ensure the final report and presentation reflect the team's own review and understanding.
